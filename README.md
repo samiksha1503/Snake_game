@@ -3,7 +3,7 @@
 A classic Snake Game implemented using HTML, CSS, and JavaScript.
 ## Demo
 
-🌐 [Live Demo](#) < https://samiksha1503.github.io/Snake_game/>
+🌐 [Live Demo](#) <https://samiksha1503.github.io/Snake_game/>
 
 ## How to Play 🎮
 
