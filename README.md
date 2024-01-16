@@ -1,6 +1,9 @@
    ![image](https://github.com/samiksha1503/Snake_game/assets/131444629/d726aaec-d9e1-4f27-b0ce-8205e3a2a835)!
   # Snake_game 🐍
 A classic Snake Game implemented using HTML, CSS, and JavaScript.
+## Demo
+
+🌐 [Live Demo](#) < https://samiksha1503.github.io/Snake_game/>
 
 ## How to Play 🎮
 
